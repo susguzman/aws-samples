@@ -1,0 +1,15 @@
+{
+    "name": "Jesus Guzman",
+    "email": "jguzman@datum.com.gt",
+    "subject" : "Prueba",
+    "message": "Buenos Tardes !!!"
+}
+
+curl --header "Content-Type: application/json" \
+--request POST \
+--data "@testmail.json" \
+https://hhys8o4ghj.execute-api.us-east-1.amazonaws.com/dev/enviar
+
+Reponse 403
+Access-Control-Allow_Origin			'*'
+Access-Control-Allow-Origin			'*'

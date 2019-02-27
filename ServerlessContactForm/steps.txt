@@ -1,0 +1,25 @@
+#### Lambda Demo ####
+- Crear role
+- Crear funcion
+- Hacer una prueba. print(event['body'])
+
+#### Lambda Hands On 1 - Envio de correos ####
+- Modificar codigo
+- Modificar role
+- SES registar email
+
+#### Lambda Hands On 2 - Envio de correos 2 ####
+- Modificar codigo
+- Uso de variables
+
+#### Lambda Hands On 3 - Guardar en Dynamo ####
+- Crear tabla de dynamo
+- Modificar role
+- Modificar codigo
+
+#### Lambda Hands On 4 - Configurar API Gateway ####
+- Crear Apigateway
+- Prueba
+
+#### Sitio Web Estatico ####
+- 
