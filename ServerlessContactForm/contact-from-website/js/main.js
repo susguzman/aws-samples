@@ -33,7 +33,7 @@ Ajax Contact Form
         // process the form
         $.ajax({
             type : 'POST',
-            url  : 'https://hhys8o4ghj.execute-api.us-east-1.amazonaws.com/dev/send',
+            url  : 'https://e36pbmc4g5.execute-api.us-east-1.amazonaws.com/dev/correo',
             data : JSON.stringify(formData),
             dataType : 'json',
             contentType: "application/json",

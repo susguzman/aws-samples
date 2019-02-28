@@ -2,7 +2,7 @@
     "name": "Jesus Guzman",
     "email": "jguzman@datum.com.gt",
     "subject" : "Prueba",
-    "message": "Buenos Tardes !!!"
+    "message": "Buenos Tardes :D"
 }
 
 curl --header "Content-Type: application/json" \
